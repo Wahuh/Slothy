@@ -9,7 +9,7 @@
   "author": "Thanh Doan",
   "license": "ISC",
   "devDependencies": {
-    "got": "^11.6.2",
+    "got": "^11.8.5",
     "jest": "^26.4.2",
     "pg": "^8.3.3"
   }
